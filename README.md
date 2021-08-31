@@ -10,13 +10,7 @@ Accompanying code for this article https://stackabuse.com/creating-a-rest-api-wi
 $ git clone https://github.com/StackAbuse/creating-a-rest-api-with-django-rest-framework.git 
 ```  
   
-2. Go to `shopping_cart`:    
-  
-```console   
-$ cd shopping_cart   
-```   
-    
-3. Install requirements:  
+2. Install requirements:  
   
 ```console  
 $ pip install -r requirements.txt  
